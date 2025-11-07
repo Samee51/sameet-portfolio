@@ -16,9 +16,7 @@ export const metadata: Metadata = {
     description: "Modern portfolio showcasing projects and experience",
     type: "website",
   },
-   icons: {
-    icon: '/favicon.ico',
-  },
+  
 };
 
 export default function RootLayout({
